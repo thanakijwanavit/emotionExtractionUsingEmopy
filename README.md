@@ -41,4 +41,4 @@ def combineResult(result_dict_list:List[dict]):
 
 ## paper
 [slide](https://tenxor.sh/jkWW)
-[paper]()
+[paper](https://github.com/thanakijwanavit/emotionExtractionUsingEmopy/blob/main/NCTA_2021_5_CR-2%20final.pdf)
