@@ -39,3 +39,6 @@ def combineResult(result_dict_list:List[dict]):
   return final_result
 ```
 
+## paper
+[slide](https://tenxor.sh/jkWW)
+[paper]()
